@@ -1,0 +1,17 @@
+{
+    "name": "Mi PWA Mariana",
+    "short_name": "pwa",
+    "theme_color": "#ffe08a",
+    "background_color": "#ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./imagenes/icono_busqueda.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
