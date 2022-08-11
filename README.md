@@ -1,2 +1,0 @@
-# MiPWMariana
-Programacion
